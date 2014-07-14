@@ -1,4 +1,4 @@
-CATDOC version 0.93
+CATDOC version 0.94.2
 
 CATDOC is program which reads MS-Word file and prints readable 
 ASCII text to stdout, just like Unix cat command.
